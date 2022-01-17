@@ -15,7 +15,7 @@ In the latest academic review of schools within the district, the school board h
   | % Passing Math | 74.98 | 74.76 |
   | % Passing Reading | 85.81 | 85.66 |
   | % Overall Passing | 65.17 | 64.86 |
-* **Thomas High School:** 
+* **Thomas High School:** Since all ninth-grade reading and math scores were set to non-numerical values, they could not be used as part of the school averages.  As a result, the new math and reading scores were cacluated based upon the tenth--twelvth-grade averages alone, and reflect only minimal changes overall.  However, the total number of students attending school remains the same and results in a significant negative impact on the passing percentages for Thomas High School in every category.
   |  | Original Analysis | Adjusted Analysis |
   | --- | --- | --- |
   | Ave Math Score | 83.42 | 83.35 |
