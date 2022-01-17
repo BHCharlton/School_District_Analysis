@@ -16,3 +16,10 @@ In the latest academic review of schools within the district, the school board h
   | % Passing Reading | 85.81 | 85.66 |
   | % Overall Passing | 65.17 | 64.86 |
 * **Thomas High School:** 
+  |  | Original Analysis | Adjusted Analysis |
+  | --- | --- | --- |
+  | Ave Math Score | 83.42 | 83.35 |
+  | Ave Reading Score | 83.85 | 83.90 |
+  | % Passing Math | 93.27 | 66.91 |
+  | % Passing Reading | 97.31 | 69.66 |
+  | % Overall Passing | 90.95 | 65.08 |
