@@ -3,7 +3,7 @@
 In the latest academic review of schools within the district, the school board has determined that the files may have uncovered evidence of academic dishonesty within the district, specifically reading and math grades for ninth-graders attending Thomas High School.  While the extent of academic dishonesty is uncertain, the school board has reached out to Maria, our client, to do a re-analysis of grade reporting within the district, and to replace the suspect grades from Thomas High School with null values.  Maria and the school board will be able to use the new report to better understand the effects of the altered reporting, and then to make more informed decisions on school budgeting and performance within the district.
 
 ## Analysis Results
-* **District Wide:** There are 461 ninth-graders attending Thomas High School whose math and reading scores were replaced with null values (NaN).  With a total student count near 40,000 district-wide, there were nominal changes to the overall results, generally less than one-percent:
+* **District Wide:** There are 461 ninth-graders attending Thomas High School whose math and reading scores were replaced with null values (NaN).  With a total student count near 40,000 district-wide, there were minimal changes to the overall results, generally less than one-percent:
 
   |  | Original Analysis | Adjusted Analysis |
   | --- | --- | --- |
@@ -30,7 +30,7 @@ In the latest academic review of schools within the district, the school board h
     | --- | --- | --- | --- | --- |
     | Ave Math Score | NaN | 83.09 | 83.50 | 83.50 |
     | Ave Reading Score | NaN | 84.25 | 83.59 | 83.83 |
- * **Scores by School Spending:** Thomas High School spends between $630 and $644 per student, placing it in the third-quartile (large) district wide.  The school budget is $1,043,130.00, and is not affected by variations in academic scores.  As before, the new analysis resulted in nominal changes in overall results district-wide:
+ * **Scores by School Spending:** Thomas High School spends between $630 and $644 per student, placing it in the third-quartile (large) in spending district wide.  The school budget is $1,043,130.00, and is not affected by variations in academic scores.  As before, the new analysis resulted in minimal changes overall for schools within the same spending range:
 
     |  | Original Analysis | Adjusted Analysis |
     | --- | --- | --- |
@@ -40,3 +40,26 @@ In the latest academic review of schools within the district, the school board h
     | % Passing Math | 73.48 | 73.46 |
     | % Passing Reading | 84.39 | 84.32 |
     | % Overall Passing | 62.86 | 62.78 |
+  * **Scores by School Size:** Thomas High School has a student population of 1,635, designating it a Medium-size school (1,000-2,000) on a three-tier distric grouping.  No differentiable changes were observed:
+    
+    |  | Original Analysis | Adjusted Analysis |
+    | --- | --- | --- |
+    | School Size | Medium | Medium |
+    | Ave Math Score | 83.37 | 83.37 |
+    | Ave Reading Score | 83.86 | 83.86 |
+    | % Passing Math | 93.60 | 93.60 |
+    | % Passing Reading | 96.79 | 96.79 |
+    | % Overall Passing | 90.62 | 90.62 |
+    
+* **Scores by School Type:** Thomas High School is listed as a Charter school within the district along with seven other schools.  These school consistently perform better across the board, and generally mediate much of the distrit's overall averages.  Once again, the new analysis resulted in minimal changes for Charter school in the district:
+
+    |  | Original Analysis | Adjusted Analysis |
+    | --- | --- | --- |
+    | School Type | Charter | Charter |
+    | Ave Math Score | 83.47 | 83.47 |
+    | Ave Reading Score | 83.90 | 83.90 |
+    | % Passing Math | 93.62 | 93.61 |
+    | % Passing Reading | 96.59 | 96.55 |
+    | % Overall Passing | 90.43 | 90.39 |
+
+ 
