@@ -40,7 +40,7 @@ In the latest academic review of schools within the district, the school board h
     | % Passing Math | 73.48 | 73.46 |
     | % Passing Reading | 84.39 | 84.32 |
     | % Overall Passing | 62.86 | 62.78 |
-  * **Scores by School Size:** Thomas High School has a student population of 1,635, designating it a Medium-size school (1,000-2,000) on a three-tier distric grouping.  No differentiable changes were observed:
+  * **Scores by School Size:** Thomas High School has a student population of 1,635, designating it a Medium-size school (1,000-2,000) on a three-tier district grouping.  No differentiable changes were observed:
     
     |  | Original Analysis | Adjusted Analysis |
     | --- | --- | --- |
@@ -51,7 +51,7 @@ In the latest academic review of schools within the district, the school board h
     | % Passing Reading | 96.79 | 96.79 |
     | % Overall Passing | 90.62 | 90.62 |
     
-* **Scores by School Type:** Thomas High School is listed as a Charter school within the district along with seven other schools.  These school consistently perform better across the board, and generally mediate much of the distrit's overall averages.  Once again, the new analysis resulted in minimal changes for Charter school in the district:
+* **Scores by School Type:** Thomas High School is listed as a Charter school within the district along with seven other schools.  These school consistently perform better across the board, and generally mediate much of the district's overall averages.  Once again, the new analysis resulted in minimal changes for Charter school in the district:
 
     |  | Original Analysis | Adjusted Analysis |
     | --- | --- | --- |
@@ -61,5 +61,7 @@ In the latest academic review of schools within the district, the school board h
     | % Passing Math | 93.62 | 93.61 |
     | % Passing Reading | 96.59 | 96.55 |
     | % Overall Passing | 90.43 | 90.39 |
+    
+## Summary
 
  
