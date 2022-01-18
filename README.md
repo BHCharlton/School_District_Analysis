@@ -63,5 +63,6 @@ In the latest academic review of schools within the district, the school board h
     | % Overall Passing | 90.43 | 90.39 |
     
 ## Summary
+Evaluation of the new data reveals several things about the overall performance of Thomas High School, and the entire school district.  It is clear, however, that the null values in the updated analysis had a far greater impact on Thomas High School individually, causing its academic standing amongst other schools to plummet significantly from second to eighth.  But district wide, differences in the overall academic performance of all schools when grouped by category, were minimal to non-existent, generally by less than a tenth of a percent. For this analysis, and others like it, the major impacts of academic dishonesty will be most impactful at the individual school level, with negligible effects for other schools and the entire district.
 
  
