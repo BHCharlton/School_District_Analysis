@@ -3,7 +3,7 @@
 In the latest academic review of schools within the district, the school board has determined that the files may have uncovered evidence of academic dishonesty within the district, specifically reading and math grades for ninth-graders attending Thomas High School.  While the extent of academic dishonesty is uncertain, the school board has reached out to Maria, our client, to do a re-analysis of grade reporting within the district, and to replace the suspect grades from Thomas High School with null values.  Maria and the school board will be able to use the new report to better understand the effects of the altered reporting, and then to make more informed decisions on school budgeting and performance within the district.
 
 ## Analysis Results
-* **District Wide:** There are 461 ninth-graders attending Thomas High School whose math and reading scores were replaced with null values (NaN).  With a total student count near 40,000 district-wide, there were minimal changes to the overall results, generally less than one-percent:
+* **District Wide:** There are 461 ninth-graders attending Thomas High School whose math and reading scores were replaced with null values (NaN).  With a total student count near 40,000 district-wide, there were minimal changes to the overall results, generally by less than one-percent:
 
   |  | Original Analysis | Adjusted Analysis |
   | --- | --- | --- |
@@ -15,7 +15,7 @@ In the latest academic review of schools within the district, the school board h
   | % Passing Math | 74.98 | 74.76 |
   | % Passing Reading | 85.81 | 85.66 |
   | % Overall Passing | 65.17 | 64.86 |
-* **Thomas High School:** Since all ninth-grade reading and math scores were set to non-numerical values, they could not be used as part of the school averages.  As a result, the new math and reading scores were calculated based upon the tenth--twelfth-grade averages alone,  and reflect only minimal changes overall.  However, the total number of students attending school remains the same and results in a significant negative impact on the passing percentages for Thomas High School in every category.  The adjusted data has major implications on Thomas High School's academic standing within the school district, dropping it from second-highest performing down to eighth amongst the fifteen schools:
+* **Thomas High School:** Since all ninth-grade reading and math scores were set to non-numerical values, they could not be used as part of the school score averages.  As a result, the new math and reading scores were calculated based upon the tenth through twelfth-grade averages alone,  and reflect only minimal changes overall.  However, the total number of students attending school remains the same and results in a significant negative impact on the passing percentages for Thomas High School in every category.  The adjusted data has major implications on Thomas High School's academic standing within the school district, dropping it from second-highest performing down to eighth amongst the fifteen schools:
 
   |  | Original Analysis | Adjusted Analysis |
   | --- | --- | --- |
@@ -30,7 +30,7 @@ In the latest academic review of schools within the district, the school board h
     | --- | --- | --- | --- | --- |
     | Ave Math Score | NaN | 83.09 | 83.50 | 83.50 |
     | Ave Reading Score | NaN | 84.25 | 83.59 | 83.83 |
- * **Scores by School Spending:** Thomas High School spends between $630 and $644 per student, placing it in the third-quartile (large) in spending district wide.  The school budget is $1,043,130.00, and is not affected by variations in academic scores.  As before, the new analysis resulted in minimal changes overall for schools within the same spending range:
+ * **Scores by School Spending:** Thomas High School spends between $630 and $644 per student, placing it in the third-quartile in spending district wide.  The school budget is $1,043,130.00, and is not affected by variations in academic scores.  As before, the new analysis resulted in minimal changes overall for schools within the same spending range:
 
     |  | Original Analysis | Adjusted Analysis |
     | --- | --- | --- |
@@ -51,7 +51,7 @@ In the latest academic review of schools within the district, the school board h
     | % Passing Reading | 96.79 | 96.79 |
     | % Overall Passing | 90.62 | 90.62 |
     
-* **Scores by School Type:** Thomas High School is listed as a Charter school within the district along with seven other schools.  These school consistently perform better across the board, and generally mediate much of the district's overall averages.  Once again, the new analysis resulted in minimal changes for Charter school in the district:
+* **Scores by School Type:** Thomas High School is listed as a Charter school within the district along with seven other schools.  These school consistently perform better across the board, and generally mediate much of the district's overall averages.  Once again, the new analysis resulted in minimal changes for Charter schools in the district:
 
     |  | Original Analysis | Adjusted Analysis |
     | --- | --- | --- |
